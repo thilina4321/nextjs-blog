@@ -1,8 +1,8 @@
 {
-  "name": "nextjs-course",
+  "name": "nextjs-blog",
   "version": "0.1.0",
   "engines": {
-    "node": "14.17.1"
+    "node": "16.16.0"
   },
   "private": true,
   "scripts": {
